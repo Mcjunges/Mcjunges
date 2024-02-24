@@ -1,6 +1,15 @@
 ### Hi there 👋
-
 <!--
+![Mcjunges GitHub stats](https://github-readme-stats.vercel.app/api?username=Mcjunges&show_icons=true&theme=blue-green)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mcjunges&layout=pie)](https://github.com/Mcjunges/github-readme-stats)
+
+[Créditos](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file)
+
+
+
+
+
 **Mcjunges/Mcjunges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
